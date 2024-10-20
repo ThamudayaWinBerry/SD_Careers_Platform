@@ -33,3 +33,5 @@ export default function RootLayout({
     </html>
   );
 }
+
+// trying out in workshop
